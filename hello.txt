@@ -6,5 +6,5 @@ hello git!
 hello git!
 hello git!
 hello git!
-hello git!
-hello git!
+hello git!？  啊？
+hello git这是啥 啊   支持中文吗

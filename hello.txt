@@ -6,5 +6,9 @@ hello git!
 hello git!
 hello git!
 hello git!
-hello git!？  啊？
+hello git!？  啊?
 hello git这是啥 啊   支持中文吗
+git status 查看当前的变动和提交状态
+git add hello.txt 提交hello.txt到暂存区
+git commit -m "版本信息" hello.txt   将更新后的文件提交到“版本信息”的版本
+git reflog   查看各个版本的信息
